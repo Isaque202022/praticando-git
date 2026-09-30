@@ -1,2 +1,4 @@
 incio
 escreve código do zero
+pc2 esteve aqui
+e dessa vez é mais difil
