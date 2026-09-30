@@ -1,0 +1,2 @@
+incio
+escreve código do zero
